@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm IFRAH Lyna</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3></br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynaifr" alt="lynaifr" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynaifr" alt="lynaifr" /></a> </p>
 
-<h3 align="left">🌐 Connect with me:</h3>
+# 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/lyna ifrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyna ifrah" height="30" width="40" /></a>
 <a href="https://kaggle.com/lynaifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lynaifr" height="30" width="40" /></a>
