@@ -5,7 +5,7 @@
 
 # 🌐 Connect with me:
 <p align="left">
-<a href="[https://linkedin.com/in/lyna-ifrah](https://www.linkedin.com/in/lyna-ifrah-8a1871237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyna ifrah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lyna-ifrah-8a1871237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyna ifrah" height="30" width="40" /></a>
 <a href="https://kaggle.com/lynaifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lynaifr" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/lynaifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/lynaifr" height="30" width="40" /></a>
 </p>
